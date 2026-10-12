@@ -1,0 +1,8 @@
+# Sauvegardes et fichiers temporaires
+*~
+*.bak
+*.swp
+
+# IA config file
+.claude
+CLAUDE.md
