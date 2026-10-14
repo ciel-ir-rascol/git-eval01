@@ -33,7 +33,7 @@ Cette évaluation porte sur les notions du **TP01 — Découverte de Git et GitH
 
 ### Règles
 
-- Vous avez droit à vos notes, au document à trous du cours, au **sujet du TP01** et à votre dépôt `tp01-git`, ainsi qu'à l'aide de Git (`git help commit`…).
+- Vous avez droit à vos notes, au document à trous du cours, au **sujet du TP01**, à votre dépôt `tp01-git`, à l'aide de Git (`git help commit`…) et au **[lexique des commandes](LEXIQUE.md)** fourni dans ce dépôt : on évalue votre capacité à choisir et appliquer la bonne commande, pas votre mémoire de sa syntaxe.
 - Travail **individuel**.
 - Les noms de dossiers, de fichiers et de dépôts doivent être respectés **à la lettre** : le script ne fait pas d'approximation.
 - **Interdit** : supprimer le dépôt `eval01-git` pour le recréer, ou réécrire son historique. Le script le détecte.
