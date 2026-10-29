@@ -42,14 +42,22 @@ Cette évaluation porte sur les notions du **TP01 — Découverte de Git et GitH
 
 ## Sommaire et barème
 
-| Mission | Objectif | Durée conseillée | Points |
-| :---: | --- | :---: | :---: |
-| **1** | Récupérer le sujet et préparer le dépôt | 5 min | 2 |
-| **2** | Enquêter dans l'historique | 15 min | 6 |
-| **3** | Remettre de l'ordre et commiter proprement | 15 min | 6 |
-| **4** | Publier sur GitHub | 15 min | 4 |
-| **5** | Travailler depuis deux endroits | 10 min | 2 |
-| | **Total** | **1h** | **/20** |
+| Mission | Objectif | Durée conseillée | Points | Observables |
+| :---: | --- | :---: | :---: | --- |
+| **1** | Récupérer le sujet et préparer le dépôt | 5 min | 2 | C08.2.1 |
+| **2** | Enquêter dans l'historique | 15 min | 6 | C08.2.2 |
+| **3** | Remettre de l'ordre et commiter proprement | 15 min | 6 | C08.2.3, C09.4.4 |
+| **4** | Publier sur GitHub | 15 min | 4 | C03.3.2 |
+| **5** | Travailler depuis deux endroits | 10 min | 2 | C08.2.2 |
+| | **Total** | **1h** | **/20** |  |
+
+**Observables du référentiel** (suivi des compétences du BTS CIEL) travaillés dans cette évaluation :
+
+- `C03.3.2` — La mise en œuvre de l'espace collaboratif est démontrée. *(mission 4)*
+- `C08.2.1` — Un outil de versionnement est en place *(mission 1)*
+- `C08.2.2` — Le fonctionnement de l'outil de versionnement est démontré *(missions 2, 5)*
+- `C08.2.3` — Chaque composant est versionné. *(mission 3)*
+- `C09.4.4` — Les documents sont protégés, les accès systèmes sont surveillés et protégés. *(mission 3)*
 
 Les missions se font **dans l'ordre**.
 
